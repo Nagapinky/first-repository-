@@ -1,0 +1,5 @@
+1.a=10
+2.b=20
+3.print
+4.if a==10:
+5.print(hellow)
